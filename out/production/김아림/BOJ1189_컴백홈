@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ1189_컴백홈 {
+public class BOJ1198_컴백홈 {
 
     static int count;
     static char[][] map;
