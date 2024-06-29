@@ -12,3 +12,14 @@
   - [PRO]영역구하기
 - N차 복습시, 기존 PR _verN 추가하기
     - [BOJ]2583_영역구하기_ver2
+
+## Problems
+|주차|문제1|문제2|문제3|문제4|라이브코딩|
+|---|---|---|---|---|---|
+|1주차|[BOJ9251](https://www.acmicpc.net/problem/9251)|[BOJ9663](https://www.acmicpc.net/problem/9663)|[BOJ6593](https://www.acmicpc.net/problem/6593)|[BOJ15903](https://www.acmicpc.net/problem/15903)|미정|
+2주차||||||
+3주차||||||
+4주차||||||
+5주차||||||
+6주차||||||
+7주차||||||
