@@ -16,7 +16,7 @@
 ## Problems
 |주차|문제1|문제2|문제3|문제4|라이브코딩|
 |---|---|---|---|---|---|
-|1주차|[BOJ9251](https://www.acmicpc.net/problem/9251)|[BOJ9663](https://www.acmicpc.net/problem/9663)|[BOJ6593](https://www.acmicpc.net/problem/6593)|[BOJ15903](https://www.acmicpc.net/problem/15903)|[PRO롤케이크_자르기](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|
+|1주차|[BOJ9251](https://www.acmicpc.net/problem/9251)|[BOJ9663](https://www.acmicpc.net/problem/9663)|[BOJ6593](https://www.acmicpc.net/problem/6593)|[BOJ15903](https://www.acmicpc.net/problem/15903)|[PRO롤케이크_자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|
 2주차|[PRO두큐합같게만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[PRO연속된부분수열의합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[BOJ11650](https://www.acmicpc.net/problem/11650)|[BOJ2231](https://www.acmicpc.net/problem/2231)|미정|
 3주차||||||
 4주차||||||
