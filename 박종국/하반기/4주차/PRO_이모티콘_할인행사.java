@@ -17,10 +17,9 @@ class Solution {
     static int maxUser, maxCost;
     public int[] solution(int[][] users, int[] emoticons) {
         src = new int[emoticons.length];
-        calc(users, emoticons);
+        perm(0, users, emoticons);
         return new int[]{maxUser, maxCost};
     }
-
     void perm(int idx, int[][] users, int[] emoticons) {
         if(idx == src.length){
             calc(users, emoticons);
@@ -33,7 +32,6 @@ class Solution {
     }
 
     void calc(int[][] users, int[] emoticons) {
-        src = new int[]{40, 40, 20, 40};
         int amount = 0;
         int membershipCnt = 0;
         for(int[] user: users){
