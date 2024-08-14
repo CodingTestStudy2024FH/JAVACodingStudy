@@ -31,11 +31,4 @@ class Solution {
         // 더 이상 갈 곳이 없으면 경로에 추가
         route.add(0, airport);
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        String[][] tickets = {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
-        String[] result = solution.solution(tickets);
-        System.out.println(Arrays.toString(result));
-    }
 }
